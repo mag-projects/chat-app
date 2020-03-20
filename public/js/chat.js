@@ -40,7 +40,7 @@ const autoscroll = () => {
     }
 };
 
-// server (emit) -> client (receive) --acknowledgement--> serve
+// server (emit) -> client (receive) --acknowledgement--> server
 
 // client (emit) -> server (receive) --acknowledgement--> client
 
